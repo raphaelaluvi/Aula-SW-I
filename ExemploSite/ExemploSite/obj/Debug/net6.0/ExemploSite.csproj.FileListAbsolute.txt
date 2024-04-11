@@ -1,0 +1,14 @@
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\bin\Debug\net6.0\ExemploSite.exe
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\bin\Debug\net6.0\ExemploSite.deps.json
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\bin\Debug\net6.0\ExemploSite.runtimeconfig.json
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\bin\Debug\net6.0\ExemploSite.dll
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\bin\Debug\net6.0\ExemploSite.pdb
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.AssemblyInfo.cs
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.dll
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\refint\ExemploSite.dll
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.pdb
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ExemploSite.genruntimeconfig.cache
+C:\Users\Acer\Downloads\Aula-SW-I-main\ExemploSite\ExemploSite\obj\Debug\net6.0\ref\ExemploSite.dll
